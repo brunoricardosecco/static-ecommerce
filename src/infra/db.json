@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tenis",
+      "description": "Qualquer descrição"
+    },
+    {
+      "id": 2,
+      "name": "Calça",
+      "description": "Qualquer descrição"
+    },
+    {
+      "id": 3,
+      "name": "Camiseta",
+      "description": "Qualquer descrição"
+    },
+    {
+      "id": 4,
+      "name": "Chinela",
+      "description": "Qualquer descrição"
+    },
+    {
+      "id": 5,
+      "name": "Suplemento",
+      "description": "Qualquer descrição"
+    },
+    {
+      "id": 10,
+      "name": "Anilha",
+      "description": "descrição qualquer"
+    }
+  ]
+}
