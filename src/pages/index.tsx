@@ -42,11 +42,14 @@ export const getStaticProps: GetStaticProps = async () => {
     return {
       props: {
         products: parsedResponse
-      }
+      },
+      revalidate: 5
     }
   } catch (error) {
     return {
-      props: {}
+      props: {
+        products: []
+      }
     }
   }
 }
