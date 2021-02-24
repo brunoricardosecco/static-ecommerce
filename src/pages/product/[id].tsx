@@ -14,7 +14,7 @@ interface DetailedProductProps {
 
 const DetailedProduct: React.FC = ({ product }: DetailedProductProps) => (
   <div>
-    <h1>Produto</h1>
+    <h1>Produto:</h1>
     <p>{product.id}</p>
     <p>{product.name}</p>
     <p>{product.description}</p>
